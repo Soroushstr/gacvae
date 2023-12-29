@@ -1,3 +1,5 @@
+Run following python codes in a Colab environment
+```Python
 # -*- coding: utf-8 -*-
 """Untitled2.ipynb
 
@@ -307,7 +309,7 @@ min_tot_loss = 1e99
 
 latent_mus = []
 latent_sigmas = []
-
+```
 with tf.Session() as sess:
    
 
