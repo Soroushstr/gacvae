@@ -1,3 +1,5 @@
+Maccs.txt text file includes the 166-bit MACCS structures for the database
+
 Run following python codes in a Colab environment
 ```Python
 # -*- coding: utf-8 -*-
